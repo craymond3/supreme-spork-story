@@ -2,3 +2,9 @@ It was a cold, snowy morning in the northwoods. Temperatures were in the negativ
 not including windchill. Young Tommy Winstead was bundled up tightly in his bed, not yet 
 awake to perform his usual snowday routine of drinking hot chocolate in front of the fire.
 But what he did not know was that this would not turn out to be just a normal snowday.
+
+As Tommy slowly awoke, he started his routine. He donned his wooly socks, his
+slippers, and a large, red hat to cover his large, red hair. He descended the
+stairs from his room, but to his surprise, he found that his entire house was
+filled with snow!
+
